@@ -113,4 +113,4 @@ function shuffleUp() {
   populateTable()
 }
 
-setInterval(shuffleUp, 1000)
+setInterval(shuffleUp, 5000)
